@@ -1,0 +1,26 @@
+{
+  "name": "backend-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reynarl/backend-structure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reynarl/backend-structure/issues"
+  },
+  "homepage": "https://github.com/reynarl/backend-structure#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.6.5"
+  }
+}
